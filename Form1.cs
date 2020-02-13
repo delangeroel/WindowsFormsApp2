@@ -16,7 +16,7 @@ namespace WindowsFormsApp2
         {
             InitializeComponent();
         }
-
+         
         private void button1_Click(object sender, EventArgs e)
         {
             Form2 form2Scherm = new Form2(); // Let op, tussen haakjes kun je gegevens doorgeven;
